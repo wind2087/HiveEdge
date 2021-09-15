@@ -2,7 +2,7 @@
 This project is building for embedded middleware, the goal include:
 1)the software supports for ICT devices, automatic drive, smart home,  robots.
 2)support industrial application.
-3)The feature include interactive and config moudle,  commnication moudle,  base industry module, monitor moudle, security moudle and smart module.
+3)The feature include interactive and config moudle,  commnication moudle,  base industry module, monitor module, security module and smart module.
 4)for automatic drive, we firstly support the communication module. At the same time, 
 we will firstly support harmonyos, the opensource embedded autoware.
 
